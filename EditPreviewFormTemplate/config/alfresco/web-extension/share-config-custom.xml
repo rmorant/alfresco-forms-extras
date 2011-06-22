@@ -1,0 +1,16 @@
+<alfresco-config>
+<config>
+<forms>
+	<dependencies>
+		<js src="/albasoft/components/forms/forms-extras-min.js" /> 
+		<css src="/albasoft/components/forms/forms-extras.css" />
+	</dependencies>
+	   
+	<form>
+		<edit-form template="/com/albasoft/extras/forms/editpreview-form-template.ftl" />
+	</form>
+	
+</forms>
+</config>
+
+</alfresco-config>

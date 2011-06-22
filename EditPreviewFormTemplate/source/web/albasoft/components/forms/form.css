@@ -1,0 +1,15 @@
+
+/* overrides 800px default width */
+.share-form .form-container .caption,
+.share-form .form-container .form-fields {
+    width: auto !important;
+}
+
+.form-container input {
+    clear: both;
+    width: 95% !important;
+}
+
+.form-container textarea {
+    width: 95% !important;
+}
