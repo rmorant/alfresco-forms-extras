@@ -1,0 +1,8 @@
+
+#viewBtt span.first-child {
+	background-color: transparent;
+    background-position: 6px 4px;
+    background-repeat: no-repeat;
+    padding-left: 16px;
+    background-image: url("images/preview-16.png");
+}

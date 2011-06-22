@@ -1,0 +1,5 @@
+<webscript>
+  <shortname>Form Preview</shortname>
+  <description>Displays a zoom, move and pageable preview of a content as long as its a .swf, .jpg, .png or .gif</description>
+  <url>/albasoft/components/extras/preview/form-preview-35</url>
+</webscript>
